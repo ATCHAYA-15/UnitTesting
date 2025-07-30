@@ -1,0 +1,14 @@
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net8.0\LibraryManagementSystem1.exe
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net8.0\LibraryManagementSystem1.deps.json
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net8.0\LibraryManagementSystem1.runtimeconfig.json
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net8.0\LibraryManagementSystem1.dll
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net8.0\LibraryManagementSystem1.pdb
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.AssemblyInfoInputs.cache
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.AssemblyInfo.cs
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.dll
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\refint\LibraryManagementSystem1.dll
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.pdb
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\LibraryManagementSystem1.genruntimeconfig.cache
+C:\Users\atcha\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net8.0\ref\LibraryManagementSystem1.dll

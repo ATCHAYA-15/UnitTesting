@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD082DB-D757-4165-9BD5-A8C4DC6AC200}|LibraryManagementSystem1.Tests\\LibraryManagementSystem1.Tests.csproj|c:\\users\\atcha\\source\\repos\\librarymanagementsystem1\\librarymanagementsystem1.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD082DB-D757-4165-9BD5-A8C4DC6AC200}|LibraryManagementSystem1.Tests\\LibraryManagementSystem1.Tests.csproj|solutionrelative:librarymanagementsystem1.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|c:\\users\\atcha\\source\\repos\\librarymanagementsystem1\\librarymanagementsystem1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|solutionrelative:librarymanagementsystem1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|c:\\users\\atcha\\source\\repos\\librarymanagementsystem1\\librarymanagementsystem1\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|solutionrelative:librarymanagementsystem1\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|c:\\users\\atcha\\source\\repos\\librarymanagementsystem1\\librarymanagementsystem1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|solutionrelative:librarymanagementsystem1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|c:\\users\\atcha\\source\\repos\\librarymanagementsystem1\\librarymanagementsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8EAA3-9B04-4F4D-B767-C9115643846C}|LibraryManagementSystem1\\LibraryManagementSystem1.csproj|solutionrelative:librarymanagementsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem1\\Library.cs",
+              "ToolTip": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem1\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:40:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem1\\Borrower.cs",
+              "ToolTip": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagementSystem1\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:39:55.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem1\\Book.cs",
+              "ToolTip": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem1\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:39:38.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem1.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "LibraryManagementSystem1.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:38:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem1\\Program.cs",
+              "ToolTip": "C:\\Users\\atcha\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem1\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:37:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
